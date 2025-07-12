@@ -1,0 +1,5 @@
+com\microsvc\order\controller\OrderController.class
+com\microsvc\order\repository\OrderRepository.class
+com\microsvc\order\service\OrderService.class
+com\microsvc\order\OrderServiceApplication.class
+com\microsvc\order\entity\Order.class

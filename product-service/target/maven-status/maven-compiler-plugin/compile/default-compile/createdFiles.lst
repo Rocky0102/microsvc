@@ -1,0 +1,5 @@
+com\microsvc\product\ProductServiceApplication.class
+com\microsvc\product\repository\ProductRepository.class
+com\microsvc\product\controller\ProductController.class
+com\microsvc\product\entity\Product.class
+com\microsvc\product\service\ProductService.class
