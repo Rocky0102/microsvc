@@ -1,5 +1,0 @@
-com\microsvc\user\controller\UserController.class
-com\microsvc\user\service\UserService.class
-com\microsvc\user\repository\UserRepository.class
-com\microsvc\user\entity\User.class
-com\microsvc\user\UserServiceApplication.class
