@@ -45,7 +45,7 @@ microsvc/
 ## 快速开始
 
 ### 前置要求
-- Java 17 或更高版本
+- jdk1.8+ (项目已配置自动使用 D:\.jdks\corretto-1.8.0_452)
 - Maven 3.6 或更高版本
 
 ### Windows 环境
@@ -211,7 +211,7 @@ curl http://localhost:8082/api/orders/user/1
 - **数据库**: H2 (内存数据库)
 - **ORM**: Spring Data JPA
 - **构建工具**: Maven
-- **Java版本**: 17
+- **Java版本**: 1.8+
 - **容器化**: Docker & Docker Compose (可选)
 
 ## 项目特性
